@@ -126,3 +126,8 @@ Credits
 * Many thanks to the
   `over 515 contributors <https://github.com/divio/django-cms/blob/develop/AUTHORS>`_
   to the django CMS!
+
+
+.. image:: https://badges.staging.guardrails.io/fictional-tribble/django-cms.svg
+   :alt: GuardRails Staging badge
+   :target: https://www.staging.guardrails.io
