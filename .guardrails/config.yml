@@ -2,3 +2,7 @@ bundles:
   - javascript
   - python
   - general
+  - go
+  - ruby
+  - solidity
+  - andIamNotHere
